@@ -206,11 +206,7 @@ def build_fuseki():
 
 literal_form = "<skosxl:literalForm xml:lang=\"en\">"
 pref_form = "<skosxl:prefLabel"
-created_form = "<dct:created"
-definition_form = "<rdf:value"
 pref_label = """<skos:prefLabel xml:lang="en">%(term)s</skos:prefLabel>"""
-created_label = """<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">%(created)s</dct:created>"""
-definition_label = """<skos:definition xml:lang="en">%(description)s</skos:definition>"""
 
 def translate_vocbench_to_fuseki():
     filename = sys.argv[1]
@@ -231,9 +227,9 @@ def translate_vocbench_to_fuseki():
         data['term'] = term
         deletion_end = file_data.find(">",end_index)+1
         file_data = file_data[0:deletion_start] + file_data[deletion_end:length]
-        start_insert_index = file_data.find(pref_form,end_index)
-        end_insert_index = file_data.find(">",start_index) + 1
-        file_data = file_data[0:start_insert_index] + (pref_label % data) + file_data[end_insert_index:length]
+        start_index = file_data.find(pref_form,end_index)
+        end_index = file_data.find(">",start_index) + 1
+        file_data = file_data[0:start_index] + (pref_label % data) + file_data[end_index:length]
     of.write(file_data)
     of.close()
 if __name__ == "__main__":
