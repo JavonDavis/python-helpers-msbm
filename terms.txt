@@ -1,0 +1,160 @@
+Acceptable risk
+Adaptation
+Biological hazard
+Building code
+Capacity
+Capacity development
+Climate change
+Comprehensive Disaster Management
+Contingency planning
+Coordination
+Coping capacity
+Corrective disaster risk management
+Critical facilities
+Disaster
+Disaster Recovery Plan
+Disaster risk
+Disaster risk management
+Disaster risk reduction
+Disaster risk reduction plan
+Early warning system
+Ecosystem services
+El Niño-Southern Oscillation
+Emergency management
+Emergency services
+Environmental degradation
+Environmental impact assessment
+Exposure
+Extensive risk
+Forecast
+Geological hazard
+Greenhouse gases
+Hazard
+Hydrometeorological hazard
+Intensive risk
+Land-use planning
+Livelihood
+Mitigation
+National Platform for Disaster Risk Reduction
+Natural hazard
+Preparedness
+Prevention
+Prospective disaster risk management
+Public awareness
+Recovery
+Residual risk
+Resilience
+Response
+Retrofitting
+Risk management
+Risk transfer
+Socio-natural hazard
+Structural measures
+Non-structural measures
+Sustainable development
+Technological hazards
+Vulnerability
+Avalanche
+Blizzard
+Drought
+Hydrological Drought
+Agricultural Drought 
+Socio-Economic Drought
+Meteorological Drought
+Earthquake
+Surface Wave (Ms)
+Local Magnitude (ML) AKA Richter
+Body Wave  Magnitude (Mb)
+Moment Magnitude (Mw)
+Fire
+Wild Fire
+Grass Fire
+Bush Fire
+Flood
+Freezing Rain
+Heat wave
+Tropical Disturbances
+Tropical Wave
+Tropical Depression
+Tropical Storm
+Hurricane
+Major Hurricane
+Category 1
+Category 2
+Category 3
+Category 4
+Category 5
+Hurricane - Eye
+Hurricane - Eye Wall
+Hurricane - Spiral Rain Bands
+Hurricane Watch
+Tropical Storm Watch
+Hurricane Warning
+Tropical Storm Warning
+Storm Surge
+Storm Tide
+Landslide
+Flows
+Debris Flow
+Mud Flow
+Falls
+Topples
+Slides
+Rotational Slide
+Translational Slide
+Submarine Landslide
+Lightning strike
+Limnic eruption
+Tornado
+Tsunami
+Stratovolcanoes
+Shield Volcano
+Fissure Vent Eruption
+Spatter Cone Volcano
+Calders
+Eruption
+Explosive eruptions
+Phreatomagmatic eruptions 
+Explosive
+Effusive eruptions
+Lava Dome
+Bioterrorism
+Civil unrest
+Fire (urban)
+Hazardous material spills
+Nuclear and Radiation Accidents
+Power Failure
+Tsunami
+Community
+Community Organisation
+Evacuees
+Evacuation:
+Spontaneous Evacuation
+Voluntary Evacuation
+Mandatory or Directed Evacuation
+Non-structural mitigations
+Public awareness:
+Reconstruction
+Structural mitigation:
+Warning 
+Co-ordination 
+Providing 
+Evaluation 
+Informing 
+Recovery activities
+Mitigation activities 
+Structural mitigation
+Non-structural mitigation
+Preparedness activities
+Response activities 
+Recovery activities 
+Vulnerability analysis 
+Capability analysis 
+Monitoring
+Evaluation
+Updates/Revisions
+Multi-Hazard
+Post-disaster Plans. 
+Emergency Management Plan
+Comprehensive Plan.
+Natural Infrastructure

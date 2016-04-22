@@ -1,0 +1,1904 @@
+APPENDIX 7
+
+DRAFT [COUNTRY] TOURISM SECTOR EVACUATION PLAN
+
+
+NOVEMBER 2014
+
+
+Based on the CDEMA Model prepared by
+Alison King and Dawn French
+
+
+
+
+
+
+				
+
+
+Government of [country]
+[Country] Tourism Sector Evacuation Plan
+
+Document of the [Country] [National Emergency Management Plan]
+Modeled upon the CDEMA Model Tourism Sector Evacuation Plan
+The plan consists of the Preliminaries and eight (8) sections.
+
+
+
+_________________________				___________________________
+Signature							Date
+				
+
+
+_________________________				___________________________
+Signature							Date
+				
+[Signatures based on requirements of national legislation, plan and/or practice]. 
+Contents
+Preliminaries	
+Foreword	
+Executive summary	
+Name of the plan	
+Signature page	
+Record of reviews and updates	
+Acronyms and abbreviations	
+Glossary of terms	
+Section 1:	Introduction	
+1.1 Purpose of the Tourism Sector Evacuation Plan	
+1.2 Scope	
+1.3 Tourism Sector Evacuation Plan relationship to the [NEMP]	
+1.4 Mission statement	
+Section 2:	Authority	
+Section 3:	Plan assumptions and limitations	
+3.1 Assumptions	
+3.2 Limitations	
+Section 4: _	Institutional and Planning framework	
+4.1 Institutional Framework	
+4.2 Planning and Preparedness Required	
+4.2.1 Risk assessment and plan development	
+Section 5:	Concept of operations	
+Section 6:	Evacuation operations	
+6.1 Decision	
+6.2 Evacuation watch and warning message preparation and delivery	
+6.2.1 Refusal to evacuate	
+6.3 Communications and contact information	
+6.4 Traffic control and monitoring	
+6.5 Assembly/Muster Points	
+6.6 Transportation	
+6.7 Events without warning	
+6.8 Access control and security	
+6.9 Damage Assessment	
+6.10 Return	
+6.11 Counseling	
+6.12 Evacuation checklist	
+6.13 Post-incident review	
+Section 7:	Trans – island/country threats or incidents	
+7.1 Assistance to or from other States	
+Appendices	
+APPENDIX 7.1: VISITOR EVACUATION PLAN FOR [DISTRICT/COMMUNITY]	
+APPENDIX 7.2. AVAILABLE YACHT ANCHORAGES	
+APPENDIX 7.3. [HCMU] AND OTHER KEY AGENCY CONTACT LIST	
+APPENDIX 7.4. REGISTRATION FORM FOR EVACUEES FROM VISITOR LOCATIONS (INCLUDING STAFF)	
+APPENDIX 7.5. VISITOR EVACUATION CHECKLISTS	
+General	
+At Assembly/Muster Points	
+Post evacuation activities	
+References	
+
+
+
+
+List of figures and tables
+Table 1. Possible scale of evacuation response required for specific hazards
+Table 2. Services to be procured under agreement with service providers
+
+
+
+
+Preliminaries
+Foreword
+Tourism is an important industry in [Country], and evacuation of relatively large visitor populations is to be addressed as part of the evacuation policy and planning exercise. The hospitality industry in [Country] has special needs in the management of disasters or crises, due mainly to the following factors (delete, amend or insert as necessary):
+Large numbers of stay over visitors, many of whom do not speak English, are housed in the most vulnerable and disaster prone areas of [Country] i.e., along the coast.
+Large numbers of cruise and other visitors are spread all around the country [including sister islands], participating in tours to many different sites. Some of these may be unaccompanied.
+The [Country] tourist industry has a collective responsibility for the safety and welfare of visitors.
+Tour operators, travel organizers and visitors’ relatives at home need to be informed and apprised of the situation/status of visitors.
+Some PSs may have large numbers of cruise passengers participating in tours all over the country when a disaster is imminent. On a busy cruise day, Antigua may have 10,000 passengers and 5000 crew, 85% of whom may have chosen to disembark and participate in sea or land tours to attraction sites, visit beaches, sight see with a taxi driver, or walk around town. In the Bahamas, there may be 40,000 cruise visitors on a day.  Special yachting events such as the Antigua Race week and Atlantic Rally for Cruisers in Saint Lucia draw numerous yachts to these countries for specific periods. In the BVI, the largest tourism asset is the charter yacht industry, with more than 4000 yacht berths across the 4 main islands. They may also be host to up to 8,000 cruise passengers on a given day. 
+Evacuation of visitors is a relatively expensive and challenging undertaking, as visitor expectations are likely to be higher than those of local evacuees, and they may either need to be accommodated in a relatively higher standard of shelter, or removed from [Country] if time allows. The strategy adopted will likely depend on the forecasted scale of the event, numbers of visitors likely to be affected, and whether these can be safely and comfortably accommodated elsewhere for the duration of the event, or possibly for the remainder of their stay, without being an unnecessary drain on scarce resources required for resident populations after the event.  
+Most tourists will not want to be marooned on an island that has suffered a major disaster, and tourism industry stakeholders prefer to avoid the negative publicity that is inevitably evoked by an unpalatable holiday experience. The option of evacuating guests to nearby islands or back to their countries of origin may ensure that visitors are relatively unaffected by a national crisis, but its implementation requires the availability of all information on a timely and accurate basis, and the co-operation of all relevant actors. 
+The requirements of visitor populations (whether they are stay overs accommodated in hotels or villas, cruise passengers or yachtsmen, some of whom may not speak the national language) must be specifically addressed in evacuation plans. For a visitor evacuation of any scale to succeed, appropriate action is required by informed and warned individuals in accordance with hazard-specific, practised, current (and [NDMO]-approved in some instances) site- and sector- specific evacuation plans, the former developed by the tour operator or property management, and the latter by the [Hospitality Crisis Management Unit (HCMU)] in collaboration with the [NDMO].  The Tourism Sector Evacuation Plan must be coordinated with National and [Community/District] Evacuation Plans which are managed by [DDMCs] and first responders, with NEOC support if the scale warrants, as evacuation routes and transportation resources, among other things, are expected to overlap or coincide in all these plans.  
+
+
+________________________________________		___________________________
+Signature [President, Governor, Prime Minister]	Date
+				
+
+Executive summary
+The [Country] Tourism Sector Evacuation Plan is based on the model National Tourism Sector Evacuation Plan (2014) developed by CDEMA, and is in accordance with the CDEMA Model Evacuation Policy (2014), the CDEMA Model Evacuation Plan (2014) and the [Country Hospitality Sector Crisis Management Plan]. The Model National Evacuation Plan identifies hazards for which an evacuation may be required. 
+The [Country] Tourism Sector Evacuation Plan is designed to provide for the safe, organised and efficient evacuation of visitors from an area(s) of risk to one of relative safety, whether at a local, district, national, regional or international level. It is an all-hazard plan based on the   comprehensive approach to emergency management. The plan should be activated when the threat of a hazard or the impact of an incident requires evacuation of hotel plant or other visitor sites to protect visitor life and reduce injury.
+The Plan is structured around existing legal and institutional frameworks for emergency management, and An Appendix of the National Evacuation Plan which forms part of the [NEMP]. Once activated, it is assumed that other supporting [NEMP] plans are also activated. It considers small scale evacuations where first responders operate at a local level without [TEOC] or NEOC activation, as well as large scale evacuations where partial or full activation of the [TEOC] and the NEOC is warranted, and regional and international assistance may be required. 
+Evacuation may take two forms:
+evacuation off-island or 
+evacuation to another part of the island. 
+In the event of a national crisis or disaster, the decision on evacuation will be taken by the [HCMU] and [NDMO]/NEOC. For crises or disasters that are specific to the industry, the decision on evacuation will be taken by the [HCMU]. In any event, the [NDMO] shall be informed of any decisions and recommendations taken by the [TEOC] regarding the evacuation of tourists.
+The plan requires visitors to be informed of the relevant hazards, and their own vulnerabilities and risks. They are to be made aware of their options under the evacuation plan if an evacuation is ordered. They are to be properly identified by the authorities and capable of receiving hazard warnings and alerts from the agencies or individuals responsible for their welfare. Warning systems thus need to ensure that all agencies or individuals with this responsibility receive and properly convey to visitors, information regarding what is happening, what arrangements are in place to secure their welfare and how they are required to respond. 
+For small scale, single property evacuations, visitor evacuation from within the property boundary will be managed by the property management with support of first responders, in accordance with approved property evacuation plans. If the scale of evacuation warrants activation of the [TEOC], the [TEOC] will coordinate the response, with support of the [NDMO] if required. If the evacuation is of a scale that requires partial or full activation of community evacuation plans and of the NEOC, then central coordination of evacuation activities is by the NEOC, where all key agencies (including tourism sector interests) are represented. NEOC decision making is informed by situation reports from the [TEOC] and response personnel in the field. NEOC decisions are conveyed back to the [TEOC], which are then relayed to tourism sector interests in accordance with established communication protocols. 
+The Tourism Sector plan contains the following hazard specific information for the tourism sector:
+facilities that may be affected 
+estimates of number of visitors that may be in the potential impact area(s)
+sector infrastructure and resources available
+Assembly/Muster Points
+safer areas and temporary shelters
+
+For evacuation operations, procedures and resource requirements for the following are detailed:
+Decision to evacuate
+Evacuation watches and warnings
+Communications
+Traffic control and monitoring
+Assembly/Muster points
+Transportation
+Events without warning
+Access control and security
+Return
+
+An evacuation checklist is provided. 
+The plan is to be reviewed annually by the [HCMU] and after a debrief following an actual or simulated exercise.
+Name of the plan
+[Country] Tourism Sector Evacuation Plan
+Signature page
+The [Country] Tourism Sector Evacuation Plan has been approved by and distributed to the following agencies:
+Agency
+Head of Agency
+Signature
+Date
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+It is also available on the following website[s]:
+(list websites)
+
+Record of reviews and updates
+[Country] Tourism Sector Evacuation Plan
+The record of updates and reviews of the [Country] Tourism Sector Evacuation Plan (inclusive of Appendices) is provided below.  
+Change #
+Date of Change
+Entered By
+Summary of Changes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Acronyms and abbreviations
+CHTA	Caribbean Hotel and Tourism Association
+CTO	Caribbean Tourism Organisation
+DEOC	District Emergency Operations Centre
+DRM	Disaster Risk Management
+DRR	Disaster Risk Reduction
+EMS	Emergency Medical Services
+HCMU	Hospitality Crisis Management Unit
+ICS	Incident Command System
+MOU	Memorandum of Understanding
+NDO	National Disaster Organisation
+NDMO	National Disaster Management Office
+NEOC	National Emergency Operations Centre
+NEMP	National Emergency Management Plan
+NGO	Non Governmental Organisation
+NIMS		National Incident Management System
+PEA	Public Education and Awareness
+SOP	Standard Operating Procedure
+TEOC	Tourism Emergency Operations Centre
+
+Glossary of terms 
+The following terms should be interpreted as provided below:
+Disaster is a sudden, calamitous event that causes serious disruption of the functioning of a community or a society causing widespread human, material, socioeconomic and/or environmental losses which exceed the ability of the affected community or society to cope using its own level of resources (UNISDR, 2009).
+Disaster Risk Reduction (DRR) is the concept and practice of reducing disaster risks through systematic efforts to analyse and manage the causal factors of disasters, including through reduced exposure to hazards, lessened vulnerability of people and property, wise management of land and the environment, and improved preparedness for adverse events (UNISDR, 2009).
+
+Early warning system is the set of capacities needed to generate and disseminate timely and meaningful warning information to enable individuals, communities and organizations threatened by a hazard to prepare and to act appropriately and in sufficient time to reduce the possibility of harm or loss. This encompasses the range of factors necessary to achieve effective responses to warnings. A people-centred early warning system necessarily comprises four key elements: knowledge of the risks; monitoring, analysis and forecasting of the hazards; communication or dissemination of alerts and warnings; and local capabilities to respond to the warnings received (UNISDR, 2009).
+
+Evacuation is a response strategy which may be used to mitigate the effects of an emergency or disaster on a community. It involves the movement of people to a safer location, whether in response to a threat of a hazard, or to a disaster. It is usually considered to include the return of the affected community (Emergency Management Australia, 2005).
+Immediate Evacuation is evacuation in response to a hazard impact (such as hazardous material incidents, plane crash and earthquake) that forces immediate action. The incident allows little or no warning and limited preparation time (Emergency Management Australia, 2005). Flood and tsunami may require immediate evacuation.
+Pre-warned Evacuation is evacuation in response to an event (such as cyclone or storm surge) that provides adequate warning and does not unduly limit preparation time (Emergency Management Australia). Pre-warned evacuation may be possible for flood and tsunami disasters.
+Voluntary or Precautionary Evacuation is called when there is a possible threat to life and property. This targets persons most at risk (e.g. in locations vulnerable to storm surge or high winds, persons with special needs or on offshore or coastal islands), and persons are not obligated to evacuate. Typically no special transportation or traffic management arrangements are made to facilitate voluntary or precautionary evacuation. 
+Mandatory Evacuation is called when severe threat to life and property is imminent. Authorities encourage persons to move, and ingress into the area being evacuated is limited. Evacuation transportation plans are put into effect. Emergency services (police, fire, EMS) within the evacuation area will cease until the threat has passed. Officials may go door to door advising of the risk, but will not force persons to evacuate. They will explain the consequences of not evacuating and require them to sign an indemnity form, including for minors and other persons under their care. Persons under the influence of drugs or alcohol, or who are unable to make sound decisions due to mental illness or other special considerations may be forcibly removed. Alt: and may use force if required to evacuate persons out of the evacuation zone. 
+Partial Evacuation is when only a portion of the population within an area is asked to evacuate. 
+Shadow Evacuation occurs when individuals leave an area without being told to do so. 
+Evacuation Watch is called when there is a possibility that an evacuation is necessary. It prepares the community or affected area by providing a lead time and advising preparatory actions. Evacuation may be warranted within a specified time frame, usually a number of hours (State of Alaska, 2012).
+Evacuation Warning is called when there is an immediate threat and a suggested evacuation is imminent or immediate. Residents are advised to evacuate and not return until an all clear is given (State of Alaska, 2012).
+Hazard is a dangerous phenomenon, substance, human activity or condition that may cause loss of life, injury or other health impacts, property damage, loss of livelihoods and services, social and economic disruption, or environmental damage. The hazards of concern to disaster risk reduction as stated in footnote 3 of the Hyogo Framework are “… hazards of natural origin and related environmental and technological hazards and risks.” Such hazards arise from a variety of geological, meteorological, hydrological, oceanic, biological, and technological sources, sometimes acting in combination. In technical settings, hazards are described quantitatively by the likely frequency of occurrence of different intensities for different areas, as determined from historical data or scientific analysis (UNISDR, 2009).
+Hospitality Crisis Management Unit (HCMU) is a national committee of the [NDO] comprising tourism sector and related interests in both public and private sectors.
+Incident Command System (ICS) is a standardized, on-scene, all-hazards incident management approach that allows for the integration of facilities, equipment, personnel, procedures and communications operating within a common organizational structure; enables a coordinated response among various jurisdictions and functional agencies, both public and private; and establishes common processes for planning and managing resources. ICS is typically structured to facilitate activities in five major functional areas: Command, Operations, Planning, Logistics and Finance/Administration. All of the functional areas may or may not be used based on the incident needs (FEMA, 2012).
+National Disaster Organisation (NDO) is the national organisational structure of agencies linked for the purpose of attending to the legal, institutional and operational aspects of disaster prevention and mitigation, preparedness and response and recovery and rehabilitation. The [NDO]is generally headed by the Prime Minister or Head of Government in the respective country (Baastel-ESL in Chase, V., 2011).
+National Disaster Management Office (NDMO) is the government agency with focal responsibility for disaster management in the country. It is generally headed by the countries Disaster Coordinator (Baastel-ESL in Chase, V., 2011).
+National Emergency Operations Centre (NEOC) is to provide centralized coordination and control of emergency/disaster response and relief operations on a 24 hour-per-day basis if necessary. The Chief Executive (Prime Minister, President, Governor, etc.) of the state will direct disaster operations through the NEOC. The NEOC has three functional areas, 1. Executive, 2. Operations and 3.  Public Information and Education (NEOC Standard Operating Procedures (SOPs)).
+Shelter-in-Place is a mitigation strategy that comprises remaining in a location, usually indoors, where hazardous materials are in the environment, while taking precautions to minimize exposure to the threat. Situations that might require Sheltering in Place to be implemented include (Chicago First, date unknown):
+Severe storms;
+A public disturbance, such as a demonstration that has escalated to a violent level;
+Explosives, whether intentional or accidental; and
+Chemical or biological contaminants released accidentally or intentionally into the air.
+Tourism Emergency Operations Centre (TEOC) is established to provide coordination and control of emergency/disaster response and relief operations within the tourism sector on a 24 hour-per-day basis if necessary. The Chair of the [HCMU] directs [TEOC] operations in accordance with relevant sector plans, with support as required from the NEOC. 
+Tourism interests include all properties, sites and operations that cater to visitor population, such as hotels, marinas, real estate agents, cruise agents and cruise ship management, charter companies, tour operators, site operators and ground handlers.
+Visitor Population comprises individuals visiting or staying in a place outside their usual place of residence.  Visitor population includes business and leisure travelers present in the jurisdiction, whether for single day or overnight stays.
+Vulnerability refers to the characteristics and circumstances of a community, system or asset that make it susceptible to the damaging effects of a hazard. There are many aspects of vulnerability arising from various physical, social, economic, and environmental factors. Examples may include poor design and construction of buildings, inadequate protection of assets, lack of public information and awareness, limited official recognition of risks and preparedness measures, and disregard for wise environmental management. Vulnerability varies significantly within a community and over time (UNISDR, 2009).
+
+
+Section 1:	Introduction
+1.1 Purpose of the Tourism Sector Evacuation Plan
+The purpose of the [Country] Tourism Sector Evacuation Plan is to provide procedures for the efficient coordination of the evacuation of visitors in [Country], if it has been determined that evacuation is a response strategy to be used to protect the affected persons or groups. Evacuation may be to another part of the country or to another country.
+1.2 Scope
+The [Country] Tourism Sector Evacuation Plan provides coordination requirements for evacuations of visitors ranging in scale from a response to a single localised incident or hazard threat (small scale) to an incident or threat that may affect a number of areas simultaneously, across the country (large scale). The former can typically be managed on the scene by first responders supported by the site management and/or the [HCMU] without mobilisation of resources outside of the affected community. The latter will require partial or full activation of the [TEOC] and the NEOC, and may require mobilisation of external assistance. 
+The plan is based on the use of resources available within the sector, supplemented by State resources as reasonably required. Roles of tourism interests are defined in this plan. Roles of public and other agencies are provided in the National Evacuation Plan and relevant Standard Operating Procedures (SOPs). 
+This plan is multi-hazard in scope. 
+1.3 Tourism Sector Evacuation Plan relationship to the [NEMP]
+The [Country] Tourism Sector Evacuation Plan is an Appendix of the National Evacuation Plan, which is part of the [NEMP]. Once activated, other supporting plans of the [NEMP] will also be activated. These include:
+[Telecommunications Plan
+Hospitality Crisis Management Disaster plan
+Hospitality Industry Crisis Communications plan
+Crisis Information/Media Management Plan
+District Disaster Management Plans
+National Plan for Transportation in Disasters
+NEOC Standard Operating Procedures (SOPs)
+NDMO Agency Standard Operating Procedures (SOPs)
+Traffic Management Plans
+Tourist/Foreigner Tracing Plan
+Health Sector Plan]
+1.4 Mission statement
+The [Country] Tourism Sector Evacuation Plan will provide for the re-location of visitors from a specific well defined area under the threat or impact of a hazard, disaster or emergency, to a safer place (which may be out of the State if conditions allow), out of the scope of the threat or impact of the hazard, disaster or emergency, where they can have all their everyday needs satisfied until the threat or impact has passed.
+
+Section 2:	Authority
+This plan is prepared as required under the [national disaster management legislation] which requires the [NDMO] to develop the [NEMP] which shall include procedures related to preparedness for, mitigation of, response to and recovery from emergencies and disasters.
+[Agency Standard Operating Procedures (SOPs)] require the [Hospitality Crisis Management Unit (HCMU)] to review and update the [Hospitality Crisis Management Disaster Plan] annually, and to ensure that all tourism-related businesses have adequate safety standards and up-to-date contingency plans for emergencies and disasters, including provisions for the rapid evacuation of tourists in the event of a major disaster. According to the [Hospitality Crisis Management Disaster Plan], visitor evacuation may be to another island or to another part of the island. In the event of a national crisis or disaster, the decision on visitor evacuation will be taken by the [Prime Minister/Governor/President], upon advice of the [HCMU] and [NDMO]. For crises or disasters that are specific to the industry, the decision on evacuation will be taken by the [HCMU]. 
+Section 3:	Plan assumptions and limitations
+(Delete or modify those that do not apply and add in others as required)
+3.1 Assumptions
+It is assumed that:
+Large visitor populations (cruise and stay over) may be present in the community. Some of these may be accommodated in single villa type accommodation within the community.
+If there is an immediate threat to a visitor or visitors, evacuation may be spontaneous.
+Visitors will cooperate with directives given during an evacuation. 
+The tourism sector will ensure that the [HCMU] and the [TEOC] function as envisaged.
+There will be cooperation between tourism interests and other relevant agencies in plan maintenance and implementation. 
+The tourism sector will fully utilize resources available within the sector before calling for support or assistance from the State, during an evacuation.
+MOU or other appropriate arrangements will be maintained between tourism interests and service providers for provision of services that may be required of them during a visitor evacuation.
+The State will provide transportation and other requisite support within its capacity to do so, during an evacuation, as identified in [NDMO]-approved plans. 
+Once the Tourism Sector Evacuation Plan is activated, all necessary supporting plans in the [NEMP] will also be activated. 
+3.2 Limitations
+Inclement weather, darkness or dangerous conditions may restrict movement of evacuees and responder activity.
+Available capacity of watercraft, aircraft and ambulances may limit the ability to evacuate certain visitors.
+Poor or limited access to some of the potentially affected sites catering to visitors may hinder the evacuation response.
+
+Section 4: 	Institutional and Planning framework 
+4.1 Institutional Framework
+The [NEMP] articulates the composition of the national [emergency management] structure.  Lead public agencies involved in an evacuation response are listed in the National Evacuation Plan. These agencies together with other support agencies are represented on the NEOC and/or the national emergency management committees. The roles of these are defined in the NEOC Standard Operating Procedures (SOPs), [Agency Standard Operating Procedures (SOPs)] and in the National Evacuation Plan. 
+The [Agency Standard Operating Procedures (SOPs)] require the [Hospitality Crisis Management Unit (HCMU)] to be established with responsibility for visitor welfare and information, and coordination of agencies in the tourism sector. The following are prescribed in the [Hospitality Crisis Management Plan]:
+Membership of the [HCMU]/[TEOC] 
+Establishment of the [Tourism Emergency Operations Centre (TEOC)] 
+Emergency procedures of the [HCMU] and the [TEOC].
+In times of pre-disaster, the [HCMU] is required to:
+ensure that there is a Liaison Officer assigned to the [NDMO], 
+annually review, update and submit the [Hospitality Crisis Management Disaster Plan]to the [NDMO],
+ensure that all tourism related businesses meet CROSQ standards for DRR in tourism, and have up-to date contingency plans for emergencies and disasters, including provisions for the rapid evacuation of tourists in the event of a major disaster.  
+During the alert phase the [HCMU] is to be represented at the strike meeting called by the Chair of NEMO. 
+The [Hospitality Crisis Management Disaster Plan] provides for the establishment of a Tourism Emergency Operations Centre (TEOC) at [specify location] or alternate location if required. The activation of the [TEOC] does not necessarily depend on the activation of the NEOC, i.e. it can be activated even if the NEOC is not activated. However, the [TEOC] will activate whenever the NEOC is activated and will always maintain contact with the [NDMO]. During the response phase, the [HCMU] is to:
+oversee the operations of the [TEOC], 
+ensure that department disaster plans are activated and 
+maintain close liaison with all resorts, Ministry of [External/Foreign Affairs] and Embassies regarding the wellbeing of visitors.  
+
+[The Minister of Tourism sits on the [NDMO] (in some countries).] The tourism sector is represented on a number of national emergency management committees including those with responsibility for [transport, supplies management, telecommunications, welfare, health, emergency shelters, oil spill, works and information]. All of these representatives are also members of the [TEOC]. 
+(Countries should consider inclusion of the following on the [HCMU/TEOC], or otherwise establishing a relationship between the [HCMU] and these:
+Port Authority (to be notified of any event that affects the cruise sector)
+Immigration (has information regarding persons landed, which will assist with tracking persons to get warning messages to them, and for tracing after an event).
+Airlines Association (may be required to assist with efforts to airlift visitors out of the country)
+Red Cross (to assist with tracing)
+Foreign Affairs and embassies (to assist with tracing and/or evacuation of persons who may have lost travel documents)
+Agency responsible for social affairs (counseling maybe be required after an event))
+4.2 Planning and Preparedness Required
+4.2.1 Risk assessment and plan development
+Tourism sector development and evacuation plans are to be based on hazard-, area- and sector-specific risk and vulnerability assessments to be undertaken by tourism interests as well as those undertaken by [planning authorities] in collaboration with the [NDMO]. These will facilitate appropriate site selection for new development by investors, and inform developers of DRR measures to be designed into their facilities and operations. The assessments will also inform sector evacuation planners as to areas, facilities and numbers of persons likely to be affected, vulnerability of proposed evacuation routes and of other critical infrastructure. Sector evacuation planners should be cognisant of [district/community] and national evacuation plans as these will identify probable evacuation zones, evacuation routes, resources required and evacuation responsibilities for the various hazards. The [HCMU] is to ensure that current National and [District/Community] Evacuation Plans developed for hazard-prone areas acknowledge the possible requirement to evacuate large visitor populations from hotels, sites and other tourism plant within the areas that may be affected. 
+(National tourism policy should be amended to speak to disaster management and tourism evacuation policy).
+All tourism interests are required to develop (with [NDMO] support if required), maintain and practise an all hazard disaster management plan inclusive of an evacuation plan, to be approved by the [NDMO]. Templates for the sector are available from Caribbean Tourism Organisation (CTO) and Caribbean Hotel and Tourism Association (CHTA). Tourism interests are to plan to utilise their own resources fully in the event that an evacuation watch or warning is issued. Properties are to enter into mutual support arrangements with like facilities, to agree conditions for sharing of resources (such as supplies, staff, equipment, transportation) in a crisis, and to accommodate persons from affected properties if circumstances permit. MOU or other suitable agreements are also to be entered into by property management with transportation and other service providers as required. Requisite support from State [Transportation Authorities] for the transportation of guests from these properties is to be identified in their [NDMO]-approved disaster management/evacuation plans and coordinated by the NEOC during an evacuation. 
+Cruise agents and cruise management are required to collaborate with national agencies, to develop multi-hazard plans for passengers and crew originating from cruise ships (whether evacuation off a ship is required due to an incident on board such as fire, malfunction, spill or disease, or landed passengers and crew are threatened or affected by a hazard while the ship is in port). Cruise agents and management are required to ensure that cruise ship disaster management plans are coordinated with the National Evacuation Plan. The responsibilities and requirements of local response and other support agencies need to be clearly defined and agreed in these plans, in the context of a possible requirement of national agencies to coordinate and execute a broader national emergency response. Such plans are therefore required to be approved by the [NDMO].
+(There is need to agree among PSs what is required of the cruise industry, and approach them as a group, perhaps via CDEMA, making a single request. The FCCA and other cruise associations need to work with the countries to make the destinations safer for their passengers. In some scenarios, an evacuation option may be to put visitors (including stay overs) on board the ships in port and take them out to sea or to another country.)
+As part of their disaster management plans, all tourism interests are encouraged to indicate the extent to which they are prepared to support local communities in an evacuation. Some may be able to accept paying guests. Others may be able to accommodate families of staff, or they may be able to provide supplies to neighbouring communities or NGOs for distribution. 
+The [HCMU] in collaboration with the [NDMO] is responsible for the development and maintenance of the Tourism Sector Evacuation Plan, including completion of the following Appendices:
+Visitor Evacuation Plans for Districts (Appendix 7.1).
+Available Yacht Anchorages (Appendix 7.2)
+ [HCMU] and Other Key Agency Contact List (Appendix 7.3)
+The [HCMU] is responsible for annually reviewing and updating tourism sector plans contained in the [NEMP] inclusive of this plan, and submitting to the [NDMO]. Debriefs are to be conducted after a simulation or actual event to ensure that lessons learnt are incorporated into updated plans by tourism interests and the [HCMU], and submitted to the [NDMO] for approval. 
+[NDMO]-approved plans of the individual tourism interests are also to be submitted to the [HCMU]. [Submission of [NDMO]-approved disaster management plans is a prerequisite for registration of properties by the Ministry of Tourism].
+Section 5:	Concept of operations
+An evacuation may be small or large scale. Evacuation scale will be determined by factors such as event/threat magnitude and duration of the emergency. Small scale evacuations might be required in response to localized incidents such as a hazardous materials accident, building fire, landslide or flooding. Large scale evacuations requiring the movement of community(s) of people may be necessary for a major natural disaster or extreme acts of terrorism.
+Large visitor populations (cruise and stayover) may be present in the community. Some stay over visitors may be accommodated in single villa type accommodation within local communities. All tourism interests are required to develop evacuation plans as part of their [NDMO]-approved disaster management plans. These should include MOU or other suitable form of agreement with other properties and transportation providers, to be called upon in case an evacuation is ordered. Depending on the scale and speed of onset of the event, visitors to be evacuated may be required by management to move to another property located in a safer area within the [State], or may be advised to leave the [country] by sea or air. 
+This Tourism Sector Evacuation Plan is a plan of the [NEMP]. Once activated, it will be supported by other relevant [NEMP] plans. 
+An evacuation may be ordered by the following:  
+Property/operator management
+first responder at an incident scene (police, fire, health) 
+Police [Chief/Commissioner] or Fire Chief
+[TEOC]
+Minister of Tourism
+[Prime Minister/President/Governor/Mayor]
+
+Small scale evacuations will be managed on-scene by property management unless and until the Fire or Police Department arrives and assumes command. If the event is of a scale that requires partial or full activation of the Tourism Sector Evacuation Plan and the [TEOC], the [TEOC] will coordinate the activities of, and provide support to, the Incident Commander (whether this is in-house management or a first response agency), with assistance from the [NDMO] as required. If the event scale requires partial or full activation of the National Evacuation Plan and the NEOC, the NEOC will provide overall coordination and other support to the [TEOC]. 
+Advance notification of a threat that may require large scale evacuation and activation of the NEOC will originate from the [NDMO], authorized by the [Prime Minister/President/Governor], conveyed directly to NEOC members, including the [tourism sector liaison officer] to the [NDMO].  
+Tourism interests will be alerted by the [HCMU/TEOC]. Tourism interests are expected to voluntarily evacuate visitors at risk using their own means in accordance with their site specific plans and this Tourism Sector Evacuation Plan. If time permits, an early evacuation watch will be issued to these groups to facilitate the departure of visitors from the country by scheduled commercial flights or other available modes of transportation if they wish. Transportation assistance in-country (land and sea) will be provided by the State in accordance with the [NDMO]-approved tourism sector evacuation plans. This will be coordinated by the NEOC. Assistance from the Ministry of [Foreign Affairs] and embassies may be required, and this will be coordinated by the NEOC.
+Once the NEOC has been partially or fully activated, dissemination of all evacuation public information will be coordinated by the NEOC and broadcast over the Early Warning System and by the media. Evacuation warnings on scene, for any scale of evacuation, may include door-to-door notification, mobile sirens and public address systems by property personnel, first responders and volunteers.
+Once an evacuation warning has been issued, the On Scene Incident Commander(s) will attempt to evacuate all persons from the designated evacuation zone(s) in accordance with approved evacuation plans. 
+Property managers/operators will document evacuee data before their evacuation from the property/site (if time and conditions permit). Otherwise this will be done at the property they are relocated to, or the exit port, whichever is applicable.
+After the event, when the all clear has been given, evacuees who have remained in the country may remain at the relocation property, return to the original property once it is safe to do so, or they may leave the country by sea or air once exit ports are operational. The [TEOC] will coordinate with the [NDO Transportation Committee] and advise tourism interests accordingly, regarding port operations, route availability, transportation available, etc. Assistance from the Ministry of [Foreign Affairs] and embassies may be required, and this will be coordinated by the NEOC.
+Section 6:	Evacuation operations
+6.1 Decision
+In situations where rapid evacuation is necessary to protect health and safety, the On-Scene Incident Commander (this may be property management, fire, police or health authority) may order and direct the immediate evacuation of persons at risk. 
+The [Prime Minister, President, Minister of Tourism, Governor, Mayor] is responsible for ordering a larger scale evacuation in response to an imminent threat. The issuance of an evacuation decision by the [Prime Minister, President, Governor] is guided by the National Evacuation Plan. 
+For slow onset events warranting a large scale evacuation, the [Tourism Liaison officer to the NDMO] will be among the group of response agencies to be notified by the [NDMO] of the decision to evacuate before public announcements to that effect are made, in accordance with the National Evacuation Plan.
+6.2 Evacuation watch and warning message preparation and delivery
+For small scale, immediate evacuations, the Incident Commander will determine whether and how a warning is to be issued in the vicinity of the incident, and will dispatch persons accordingly. Door to door notification may be used. Vehicles with sirens and loud speakers may also be used.  
+For larger scale evacuations, when the NEOC is partially or fully activated, the NEOC will issue the evacuation watch, warning and other information in accordance with NEOC Standard Operating Procedures (SOPs). 
+The [TEOC] will ensure that all tourism interests are informed on a timely basis. [Procedures for warning and other public information dissemination are contained in the [tourism sector crisis communications plan]].
+Watch and warning messages will be translated into languages stipulated in the [National Evacuation Plan] by the NEOC. If there are additional languages in use within the tourism sector, translations into these languages are to be undertaken by the [TEOC].
+Once it becomes clear that evacuation may be required, an evacuation watch will be issued by the NEOC in accordance with requirements stipulated in the National Evacuation Plan. 
+Tourism interests with responsibility for visitor populations are to be advised by the [TEOC] at the evacuation watch stage to:
+review their [NDMO]-approved evacuation plans, 
+prepare for evacuation, and 
+confirm/advise of any special assistance that may be required of the State. 
+Tourism interests are to prepare their visitors in accordance with their disaster management plans. Some may have prior arrangements in place for evacuation off-island, possibly to properties on islands not expected to be affected. Visitors are to be given the option of leaving the country in advance of an event [(whether by airplane, helicopter, ferry or other available sea vessel, cruise ship)] if warning time permits. Visitors may be advised to leave, and it may be necessary to make them aware that they face certain dangers if they remain, and that there is no guarantee that they can be properly provided for after the event. They should be informed that it is possible that ports may be closed to all, or all but relief traffic for some time after the event. 
+Evacuation warning messages will be issued by the NEOC in accordance with the [National Evacuation Plan] when an evacuation is ordered. The [TEOC] will issue this as well as other information of specific relevance to tourism interests. For off-island evacuation of visitors, the warning and other relevant information (which exit point, what time(s), etc.) will also be communicated to all relevant concerns by the [TEOC]. For evacuation to a shelter or another part of the island the warning and other relevant information (where to, what time(s), etc.) will be communicated to all relevant concerns by the [TEOC].
+6.2.1 Refusal to evacuate
+Persons refusing to evacuate are to be asked to sign an indemnity form for themselves and their dependents. Tourism interests are to advise the [TEOC] which is to advise the NEOC of areas or individuals not evacuated.
+6.3 Communications and contact information
+Effective communications are to be maintained between the NEOC and the [TEOC], in accordance with the [National Telecommunications Plan]. The [TEOC] is to relay information to tourism interests in compliance with the [Tourism Sector Crisis Communication Plan].
+Tourism interests are encouraged to maintain redundant means of communication such as radio or satellite phone, and to provide the [HCMU] with relevant contact data.
+The [TEOC] is to maintain emergency contact information for all tourism interests that accommodate or otherwise cater to visitors.
+6.4 Traffic control and monitoring 
+Evacuation traffic is managed by police supported by [transportation authorities] in accordance with [Community/District] Evacuation Plans (see maps and other details in Appendix 1 to the National Evacuation Plan), and as directed by the NEOC. 
+6.5 Assembly/Muster Points
+In most instances, visitors will assemble at Assembly/Muster Points within the boundaries of the property/site that they are patronising. These will be staffed by in-house personnel trained in Assembly/Muster Point management. Should these Assembly/Muster Points be unsuitable for any reason, or if the property/operator disaster management plan requires otherwise, the maps in this Tourism Sector Evacuation Plan (Appendix 7.1) identify other possible Assembly/Muster Points within the evacuation zone and along the evacuation routes. These have been identified by the [HCMU] in collaboration with the [NDMO]. Those to be used will be confirmed at the evacuation watch stage, and will be staffed by personnel to be identified by the [HCMU]. 
+All guests are to be accounted for by Assembly/Muster Point staff using the Registration Form contained in Appendix 7.4.
+6.6 Transportation
+Transportation will be provided in accordance with the property/operator’s [NDMO]-approved disaster management plans, using in-house or contracted transportation assets to the extent possible. 
+Public transportation assistance that may be required as stipulated in the [NDMO]-approved transportation plan and in accordance with the [National Transportation Plan for Disasters] is to be confirmed with the [NDMO] in the evacuation watch phase, via the [TEOC].  
+Some tourism interests may require State assistance to remove persons from particularly vulnerable sister islands. The State may approach the SRCC and CDEMA if regional assistance (e.g. for ferrying or airlifting of visitors) is required to assist in the removal of persons from [sister islands (name them) or] the country. All such assistance will be coordinated by the NEOC.
+6.7 Events without warning
+Events with little or no warning may occur. Preparation activities will be limited. As far as possible, the [TEOC] will be at least partially activated, Assembly/Muster Points will be identified and staffed, transportation MOU and other agreements activated, and Police will provide traffic management along evacuation routes. The NEOC will be partially or fully activated, and will be requested to coordinate support as required.
+6.8 Access control and security
+Police will maintain security in the evacuation zone in accordance with [Police Operations Orders] and the National Evacuation Plan. 
+6.9 Damage Assessment
+The [TEOC] will collaborate with the [NDO Damage Assessment Committee] to mobilise resources to undertake inspections of properties and other tourism sector assets before return can be authorised. 
+6.10 Return
+Return will be in accordance with the [National Evacuation Plan]. 
+6.11 Counseling
+There may be a need for counselling after an event, if persons have suffered emotional trauma. This will be provided by social welfare agencies within their means. External assistance may be requested via the [TEOC] and NEOC if warranted.
+6.12 Evacuation checklist
+An evacuation checklist is provided in Appendix 5.
+6.13 Post-incident review
+For small scale incidents, the Incident Commander will conduct and document a review of the operations.
+For larger scale events, the [HCMU] shall conduct a review of operations undertaken by all responsible agencies in collaboration with the [NDMO], and update tourism sector disaster management plans accordingly.
+Section 7:	Trans – island/country threats or incidents
+7.1 Assistance to or from other States
+Requests for external assistance will be made via the [TEOC] to the NEOC.
+The [NDMO] or NEOC may make requests of tourism interests on behalf of other States that face an emergency or have suffered a disaster. The requesting State’s Ministry of Foreign Affairs must make official contact with the receiving country’s Foreign Ministry. 
+
+Additionally, Embassies in the affected State must be notified and kept informed of all emergency response efforts and the safety threat to visitors.
+
+Appendices
+APPENDIX 7.1: VISITOR EVACUATION PLAN FOR [DISTRICT/COMMUNITY]
+(name the district/community)
+Date last updated: ___________________________
+
+[District/Community] is vulnerable to a number of hazards that may require evacuation of visitors. The following are contained in this Appendix (some of the information proposed to be gathered in these tables may already be collected under other plans e.g. shelter availability and vulnerability, contact data, available equipment and infrastructure, etc. in which case, the table(s) should be replaced with a reference to the relevant plans):
+Figure 1. Map of [district/community]
+Table 1. Inventory of visitor sites, contact data and transportation requirements
+Table 2. Hazard specific vulnerable areas
+Table 3.1. Tourism traffic plan for [district/community]
+Table 4. Possible visitor assembly/muster point locations within [district/community] and their hazard vulnerabilities
+Table 5. Availability and hazard vulnerability of visitor shelters in [district/community]
+Table 6. Estimated evacuation route clearance time from designated assembly/muster point to specified shelters (hours)
+
+
+
+
+
+
+Figure 1. MAP OF [COMMUNITY/DISTRICT]
+[Maps show locations of:
+hotels, cruise ship ports, marinas, other visitor sites
+critical facilities (police, fire, hospital, emergency management, utilities)
+hazmat locations (e.g. fuel depots and transportation routes, chemical storage sites)
+areas vulnerable to specified hazards (e.g. flood, storm surge, tsunami, landslide, volcanic eruption, hurricane, hazmat spill, fire)
+primary and secondary evacuation routes, Assembly/Muster Points, and shelters.]
+
+
+Table 1. INVENTORY OF VISITOR SITES, CONTACT DATA AND TRANSPORTATION REQUIREMENTS
+[COMMUNITY/DISTRICT]:
+Transportation needs to be met during evacuation (to be confirmed at evacuation watch stage)
+Property/ operator name (hotels, marinas, charter companies, cruise ports, villas, attractions, etc…)
+Location
+Approx. peak season period  (include special events and festivals) 
+Approx. peak season population (visitors + staff)
+Off-season population (visitors + staff)
+Property/ operator has [NDMO]-approved DM and evacuation plan
+Contact name and data (tel., cell, email, radio)
+internally
+3rd party agreement /MOU
+NEOC support required
+
+
+
+
+
+
+
+
+
+
+
+􀂃 Yes	 
+􀂃 No
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+􀂃 Yes	 
+􀂃 No
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+􀂃 Yes	 
+􀂃 No
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+􀂃 Yes	 
+􀂃 No
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+􀂃 Yes	 
+􀂃 No
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+􀂃 Yes	 
+􀂃 No
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+􀂃 Yes	 
+􀂃 No
+
+
+
+
+
+
+
+
+
+
+
+Table 2. HAZARD SPECIFIC VULNERABLE AREAS (modified from Table 2, Apppendix 1 to [National Evacuation Plan])
+Hazard (delete/insert as required)
+Vulnerable areas and sites within [Community/District] that may require evacuation
+Area
+Probable (more likely)  hotel/site
+Possible (less likely) hotel/site
+Hurricane
+
+
+
+
+
+
+
+
+
+
+Flood
+
+
+
+
+
+
+
+
+
+
+Landslide
+
+
+
+
+
+
+
+
+
+
+Storm Surge
+
+
+
+
+
+
+
+
+Volcanic Eruption
+
+
+
+
+
+
+
+
+Tsunami
+
+
+
+
+
+
+
+
+Earthquake
+
+
+
+
+
+
+
+
+Chemical release/spill
+
+
+
+
+
+
+
+
+Dam failure
+
+
+
+
+
+
+
+
+Terrorist attack
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table 3.1 TOURISM TRAFFIC PLAN FOR [COMMUNITY/DISTRICT] (produce as many as required for Community/District)
+ROUTES, DESTINATIONS AND HAZARD VULNERABILITIES
+
+
+Description
+Hazard vulnerability
+Origin:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Primary Route:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Primary Destination:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alternate route:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alternate Destination:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table 4. POSSIBLE VISITOR ASSEMBLY/MUSTER POINT LOCATIONS WITHIN [COMMUNITY/DISTRICT] AND THEIR HAZARD VULNERABILITIES
+Assembly/Muster Point location
+Name and contact data of owner/manager
+Capacity for persons
+Capacity for vehicles (when fully occupied with persons)
+Hazard vulnerabilities
+Comments (limitations, special features. etc.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table 5. AVAILABILITY AND HAZARD VULNERABILITY OF VISITOR SHELTERS IN [COMMUNITY/DISTRICT]
+Shelter ID no.
+Name and location
+Name and contact data of manager
+Low season  Capacity
+High season capacity
+Hazard vulnerabilities
+Comments (limitations, special features, etc.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table 6. ESTIMATED EVACUATION ROUTE CLEARANCE TIME FROM DESIGNATED ASSEMBLY/MUSTER POINT TO SPECIFIED SHELTERS (HOURS)
+
+
+To: [e.g. Hotel Y]
+To:
+To:
+To:
+From: [e.g. Hotel X]
+
+
+
+Max
+Avg
+Min
+Max
+Avg
+Min
+Max
+Avg
+Min
+Max
+Avg
+Min
+From:
+
+
+
+Max
+Avg
+Min
+Max
+Avg
+Min
+Max
+Avg
+Min
+Max
+Avg
+Min
+From:
+
+
+
+Max
+Avg
+Min
+Max
+Avg
+Min
+Max
+Avg
+Min
+Max
+Avg
+Min
+
+APPENDIX 7.2. AVAILABLE YACHT ANCHORAGES
+Table 6. AVAILABILITY AND HAZARD VULNERABILITY OF SAFE YACHT ANCHORAGES 
+Shelter ID no.
+Name
+Longitude
+Latitude
+Name and contact data of manager
+Berths available
+Hazard vulnerabilities
+Comments (limitations, special features, etc.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+APPENDIX 7.3. [HCMU] AND OTHER KEY AGENCY CONTACT LIST
+Agency represented
+Contact name
+Office phone
+Cell phone
+Email
+Channel/
+frequency
+Include all [HCMU] members
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Association Chairs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Port Authority
+
+
+
+
+
+
+
+
+
+
+
+Immigration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Safe anchorage managers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ferry services
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Airline managers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+APPENDIX 7.4. REGISTRATION FORM FOR EVACUEES FROM VISITOR LOCATIONS (INCLUDING STAFF) 
+(use one form in triplicate per vehicle, for 1. Dispatcher  2. driver and 3. Registration Clerk at destination)
+Incident name ______________________________ Date_______________ Time____________ Assembly Point________________________
+
+Assembly Point Registration clerk name and signature ____________________Dispatcher name and signature_______________________
+
+Driver name and signature________________________ Cell no ____________Vehicle no ____________Destination ___________________ 
+
+Accompanying crew____________________________________________________________________________________________________
+
+Destination Registration Clerk name and signature__________________________________________________________________________
+
+No.
+Evacuee Name (head of household or single individual)
+No. of adult dependents
+No. of child dependents
+Special needs (e.g. unaccompanied minor, medical or other support required)
+✓ if evacuee(s) not  going to vehicle destination
+1
+
+
+
+
+
+
+
+
+
+
+
+2
+
+
+
+
+
+
+
+
+
+
+
+3
+
+
+
+
+
+
+
+
+
+
+
+4
+
+
+
+
+
+
+
+
+
+
+
+5
+
+
+
+
+
+
+
+
+
+
+
+6
+
+
+
+
+
+
+
+
+
+
+
+7
+
+
+
+
+
+
+
+
+
+
+
+8
+
+
+
+
+
+
+
+
+
+
+
+Total
+
+
+
+
+
+
+
+
+
+
+
+
+
+APPENDIX 7.5. VISITOR EVACUATION CHECKLISTS (modified from State of Alaska Division of Homeland Security and Emergency Management (date unknown) and Belize Evacuation Plan (2003))
+General
+✓
+Action Item
+Assigned
+
+
+EVACUATION PLANNING:
+
+
+
+
+[HCMU] to monitor threat.
+
+
+
+
+
+[HCMU] to activate [TEOC] if necessary, and definitely if NEOC is activated.
+
+
+
+
+
+[HCMU]/[TEOC] to determine properties and populations in risk area(s) and advise these based on decision or other information received from [NDMO].
+
+
+
+
+
+Properties possibly affected to:
+review evacuation plans
+confirm transportation availability 
+confirm space availability at properties to evacuate to
+ascertain transportation and other requirements for State support
+confirm that emergency communications equipment is properly functioning;
+       and advise [HCMU]/[TEOC] accordingly.
+
+
+
+
+[HCMU]/[TEOC] to ascertain from [NDMO]:
+evacuation zones 
+selected evacuation routes for risk area(s) & 
+suitability of possible Assembly/Muster Points and shelters.
+
+
+
+
+
+[TEOC] to:
+select Assembly/Muster Points to be used
+estimate public transportation requirements based on information from properties regarding transportation deficits and destinations
+estimate other support required (e.g. for special needs visitors)
+and to advise [NDMO] accordingly.
+
+
+
+
+EVACUATION WATCH:
+
+
+
+
+[TEOC] to receive evacuation watch from [NDMO]/NEOC, and to convey this to tourism interests in accordance with the [tourism crisis communication plan], advising them to activate evacuation, transportation & reception arrangements.  
+
+
+
+
+
+Properties/operators in potentially threatened areas to prepare visitors in accordance with property evacuation plans.
+
+
+
+
+
+[TEOC] to mobilise Assembly/Muster Point teams.
+
+
+
+
+
+[TEOC] to collaborate with [NDMO]/NEOC in coordinating required State assistance.
+
+
+
+
+
+EVACUATION WARNING AND EXECUTION:
+
+
+
+
+[TEOC] to receive [NDMO]/NEOC advisory that an evacuation warning will be issued.
+
+
+
+
+
+[TEOC] to disseminate evacuation warning to tourism interests.  
+
+
+
+
+
+Properties to mobilise transportation in accordance with evacuation plans.
+
+
+
+
+
+[NDMO]/NEOC/[TEOC] to provide transportation and other assistance in evacuating, as needed.
+
+
+
+
+
+STAND DOWN OF EVACUATION
+
+
+
+
+[TEOC] to file all forms and secure.
+
+
+
+
+
+Properties and assembly point staff to secure loud hailers, communications equipment, forms, etc.
+
+
+
+
+
+[TEOC] to transport assembly point teams out of evacuation area to designated locations/shelters. 
+
+
+
+
+
+Properties and service providers to park transportation assets at designated strategic safe areas.
+
+
+
+
+
+RETURN
+
+
+
+
+[TEOC] to receive advisories from NEOC based on findings of first responders into the affected areas.
+
+
+
+
+
+NEOC to issue the all clear, advising all interests that they can return and indicating preferred travel routes.
+
+
+
+
+
+Properties to implement the return phase of their evacuation plan, including:
+damage assessment, 
+cleanup & removal/disposal of debris, 
+documentation of damage, 
+repairs, 
+assessment of whether conditions permit the return of guests,
+engagement of  relocated guests to determine their preferences (remain where they are, depart the country or return to original property) and make arrangements accordingly.
+
+
+
+
+
+At Assembly/Muster Points
+✓
+Action Item
+Assigned
+
+
+[TEOC] to organise Assembly/Muster Point workers and site.
+
+
+
+
+
+Assembly Point Workers to organise pedestrian and vehicle flow.
+
+
+
+
+
+Assembly Point Workers to register evacuees.
+
+
+
+
+
+Assembly Point workers to maintain communication with [TEOC] to confirm evacuation route, destinations.
+
+
+
+
+
+Assembly Point workers to assign evacuees to vehicles.
+
+
+
+
+
+Assembly Point workers to dispatch vehicles.
+
+
+
+
+
+Post evacuation activities
+✓
+Action Item
+Assigned
+
+
+[TEOC] to collect registration forms.
+
+
+
+
+
+[HCMU] to analyse data (number of persons moved, vehicles used, shelters used, timings, etc.).
+
+
+
+
+
+[HCMU] to debrief and document lessons learnt.
+
+
+
+
+
+[HCMU] to review and update tourism sector evacuation plans and property evacuation plans. 
+
+
+
+
+
+[NDMO]/[HCMU] to undertake PEA and training as required.
+
+
+
+References
+State of Alaska Division of Homeland Security and Emergency Management, date unknown. Evacuation 
+State of Alaska Division of Homeland Security and Emergency Management, 2012. Evacuation Plan Draft Template.
+Belize National Hazard Management Plan. Vol 5. Evacuation Plan
+Review of Policies and Practices for Hurricane Evacuation. I: Transportation Planning, Preparedness, and Response Brian Wolshon, M.ASCE1; Elba Urbina, M.ASCE2; Chester Wilmot, M.ASCE3; and Marc Levitan, M.ASCE4 DOI: 10.1061/~ASCE!1527-6988~2005!6:3~129!
+Review of Policies and Practices for Hurricane Evacuation. II: Traffic Operations, Management, and Control Brian Wolshon, M.ASCE1; Elba Urbina Hamilton, M.ASCE2; Marc Levitan, M.ASCE3; and Chester Wilmot, M.ASCE4  DOI: 10.1061/~ASCE!1527-6988~2005!6:3~143!
+FEMA, 2012. FEMA Incident Command System. http://www.fema.gov/incident-command-system Last updated 15 June 2012.
+EOC Standard Operating Procedures (SOPs) Manual, Final 2010
+Standard Operating Procedures (SOPs) for the Agencies of the NEMO, Vol. 1, 1996.
+When Disaster Strikes - Promising Practices: Evacuation
+Draft Model Comprehensive Disaster Management Bill, 2012
+Disaster Management Regulations (draft), 2012
+Disaster Management Volunteers Regulations (draft), 2012
+Disaster Management Evacuation Regulations (draft), 2012
+Disaster Relief and Assistance Regulations (draft), 2012
+Emergency Shelters Regulations (draft), 2012
+Early Warning Systems Regulations (draft), 2012
+Disaster Management Evacuation Regulations (draft), 2012
+CHA, CTO, 1998. Hurricane Procedures Manual.
+GOSL, 2007. The Saint Lucia Hospitality Industry Crisis Management Plan. Concept of Operations.
+GOSL, 2007. The Saint Lucia Hospitality Industry Crisis Management Plan. Hurricane Plan.
+South Carolina Emergency Management Division, 2010. What is the National Incident Management System? http://www.scemd.org/what-is-nims downloaded May 6, 2014
+
+
