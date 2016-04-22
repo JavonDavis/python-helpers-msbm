@@ -15,7 +15,7 @@ dist/
 downloads/
 eggs/
 .eggs/
-MSBM/MSBM/SKOS Play/sparna/fr.sparna/rdf/sesame-toolkit/lib/
+lib/
 lib64/
 parts/
 sdist/
