@@ -16,6 +16,7 @@ downloads/
 eggs/
 .eggs/
 /maui.jar
+/maui2.jar
 lib/
 lib64/
 parts/
