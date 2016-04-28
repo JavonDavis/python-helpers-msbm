@@ -17,6 +17,7 @@ eggs/
 .eggs/
 /maui.jar
 /maui2.jar
+/maui3.jar
 lib/
 lib64/
 parts/
