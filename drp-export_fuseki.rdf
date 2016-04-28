@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns="http://vocab.cdmk-caribbean.net/cdmk#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#"
+	xmlns:ann="http://art.uniroma2.it/ontologies/annotation#">
+	
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+	<skos:prefLabel xml:lang="en">Disaster Recovery Management</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk/c_e34f6879">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
+	<skos:topConceptOf rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk/c_e34f6879">
+	<skos:prefLabel xml:lang="en">CDMK</skos:prefLabel>
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-03-30T21:08:54Z</dct:created>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-03-30T21:09:33Z</dct:modified>
+</rdf:Description>

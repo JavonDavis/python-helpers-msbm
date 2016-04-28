@@ -1,0 +1,1676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns="http://vocab.cdmk-caribbean.net/cdmk#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#"
+	xmlns:ann="http://art.uniroma2.it/ontologies/annotation#">
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl-0a248fac-ca5b-4d5c-86e9-1e4f2e170acb">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk">
+	<skos:prefLabel xml:lang="en">Comprehensive Disaster Management</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_25366383">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_48d24a77">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_25366383">
+	<skos:prefLabel xml:lang="en">Climate Change</skos:prefLabel>
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_48d24a77">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_25366383">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T00:59:13Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_48d24a77">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T00:59:13Z</dct:created>
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T00:59:13Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_38c1ebea">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_6fae9f5b">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_38c1ebea">
+	<skos:prefLabel xml:lang="en">Hazard</skos:prefLabel>
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_6fae9f5b">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_38c1ebea">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T00:59:39Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_6fae9f5b">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T00:59:39Z</dct:created>
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T00:59:39Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_3a76cff9">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_2f170548">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_3a76cff9">
+	<skos:prefLabel xml:lang="en">Preparedness</skos:prefLabel>
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_2f170548">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_3a76cff9">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:00:41Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_2f170548">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:00:41Z</dct:created>
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:00:41Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_e8d4f55f">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_d02d063f">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_e8d4f55f">
+	<skos:prefLabel xml:lang="en">Response</skos:prefLabel>
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_d02d063f">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_e8d4f55f">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:01:03Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_d02d063f">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:01:03Z</dct:created>
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:01:03Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_80ea3d95">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_90f93cd5">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_80ea3d95">
+	<skos:prefLabel xml:lang="en">Vulnerability</skos:prefLabel>
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_90f93cd5">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_80ea3d95">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:01:28Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_90f93cd5">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:01:28Z</dct:created>
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:01:28Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_119ac121">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
+	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_25366383"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_7aa67bef">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_119ac121">
+	<skos:prefLabel xml:lang="en">Adaptation</skos:prefLabel>
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_7aa67bef">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_119ac121">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:04:32Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_7aa67bef">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:04:32Z</dct:created>
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:04:32Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_1bb24b50">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
+	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_38c1ebea"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_7162e40c">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_1bb24b50">
+	<skos:prefLabel xml:lang="en">Natural Hazard</skos:prefLabel>
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_7162e40c">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_1bb24b50">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:04:51Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_7162e40c">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:04:51Z</dct:created>
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:04:51Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_9eb70930">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
+	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_1bb24b50"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b38563da">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_9eb70930">
+	<skos:prefLabel xml:lang="en">Fire</skos:prefLabel>
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b38563da">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_9eb70930">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:06:56Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b38563da">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:06:56Z</dct:created>
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:06:56Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_dc170366">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
+	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_1bb24b50"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_716d06d5">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_dc170366">
+	<skos:prefLabel xml:lang="en">Geological Hazard</skos:prefLabel>
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_716d06d5">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_dc170366">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:07:19Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_716d06d5">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:07:19Z</dct:created>
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:07:19Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_6211dbac">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
+	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_1bb24b50"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_3ef1a2e0">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_6211dbac">
+	<skos:prefLabel xml:lang="en">Hydrometeorological Hazard</skos:prefLabel>
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:08:04Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_3ef1a2e0">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:08:04Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_d5a16790">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
+	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_e8d4f55f"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_d67de0e9">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_d5a16790">
+	<skos:prefLabel xml:lang="en">Evacuation</skos:prefLabel>
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_d67de0e9">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_d5a16790">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:08:25Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_d67de0e9">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:08:25Z</dct:created>
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:08:25Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_186c61f5">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
+	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_9eb70930"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_8a3e6607">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_186c61f5">
+	<skos:prefLabel xml:lang="en">Bush Fire</skos:prefLabel>
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_8a3e6607">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_186c61f5">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:09:14Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_8a3e6607">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:09:14Z</dct:created>
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:09:14Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_b218c3e6">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
+	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_9eb70930"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_7fd72a96">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_b218c3e6">
+	<skos:prefLabel xml:lang="en">Grass Fire</skos:prefLabel>
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_7fd72a96">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_b218c3e6">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:09:30Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_7fd72a96">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:09:30Z</dct:created>
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:09:30Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_74ff4cc9">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
+	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_9eb70930"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_f83042d8">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_74ff4cc9">
+	<skos:prefLabel xml:lang="en">Wild Fire</skos:prefLabel>
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_f83042d8">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_74ff4cc9">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:09:47Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_f83042d8">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:09:47Z</dct:created>
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:09:47Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_130ae73e">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
+	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_dc170366"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_07db5349">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_130ae73e">
+	<skos:prefLabel xml:lang="en">Earthquake</skos:prefLabel>
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_07db5349">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_130ae73e">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:10:11Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_07db5349">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:10:11Z</dct:created>
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:10:11Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_bd738ac1">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
+	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_dc170366"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_9e9527d3">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_bd738ac1">
+	<skos:prefLabel xml:lang="en">Landslide</skos:prefLabel>
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_9e9527d3">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_bd738ac1">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:10:31Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_9e9527d3">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:10:31Z</dct:created>
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:10:31Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_bd738ac1">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:10:31Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_6b49c676">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
+	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_bd738ac1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_02de1f2f">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_6b49c676">
+	<skos:prefLabel xml:lang="en">Flows</skos:prefLabel>
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_02de1f2f">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_6b49c676">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:11:51Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_02de1f2f">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:11:51Z</dct:created>
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:11:51Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_3eb5f2b4">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
+	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_bd738ac1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_9a156b31">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_3eb5f2b4">
+	<skos:prefLabel xml:lang="en">Slides</skos:prefLabel>
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_9a156b31">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_3eb5f2b4">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:12:06Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_9a156b31">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:12:06Z</dct:created>
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:12:06Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_91cc2a0b">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
+	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_bd738ac1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_e325f938">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_91cc2a0b">
+	<skos:prefLabel xml:lang="en">Topples</skos:prefLabel>
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_e325f938">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_91cc2a0b">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:12:21Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_e325f938">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:12:21Z</dct:created>
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:12:21Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_ba8ce5cc">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
+	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_6b49c676"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_c4be7649">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_ba8ce5cc">
+	<skos:prefLabel xml:lang="en">Debris Flow</skos:prefLabel>
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_c4be7649">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_ba8ce5cc">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:12:48Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_c4be7649">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:12:48Z</dct:created>
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:12:48Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_9e987461">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
+	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_3eb5f2b4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_93399674">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_9e987461">
+	<skos:prefLabel xml:lang="en">Rotational Slide</skos:prefLabel>
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_93399674">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_9e987461">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:13:27Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_93399674">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:13:27Z</dct:created>
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:13:27Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_3d5fb77d">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
+	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_3eb5f2b4"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_a992b272">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_3d5fb77d">
+	<skos:prefLabel xml:lang="en">Translational Slide</skos:prefLabel>
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_a992b272">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_3d5fb77d">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:13:54Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_a992b272">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:13:54Z</dct:created>
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:13:54Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_33f78366">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
+	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_6211dbac"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_a592f8e7">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_33f78366">
+	<skos:prefLabel xml:lang="en">Drought</skos:prefLabel>
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_a592f8e7">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_33f78366">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:14:13Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_a592f8e7">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:14:13Z</dct:created>
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:14:13Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_e80ea7e2">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
+	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_33f78366"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_cd1e90b0">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_e80ea7e2">
+	<skos:prefLabel xml:lang="en">Hydrological Drought</skos:prefLabel>
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_cd1e90b0">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_e80ea7e2">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:14:42Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_cd1e90b0">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:14:42Z</dct:created>
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:14:42Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_2d5b754a">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
+	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_6211dbac"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_c571a7d2">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_2d5b754a">
+	<skos:prefLabel xml:lang="en">Tornado</skos:prefLabel>
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_c571a7d2">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_2d5b754a">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:15:10Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_c571a7d2">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:15:10Z</dct:created>
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:15:10Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_cd160753">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
+	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_6211dbac"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_4c6639c1">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_cd160753">
+	<skos:prefLabel xml:lang="en">Tropical Disturbances</skos:prefLabel>
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_4c6639c1">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_cd160753">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:15:27Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_4c6639c1">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:15:27Z</dct:created>
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:15:27Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_0464e5ec">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
+	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_33f78366"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_72b2baa2">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_0464e5ec">
+	<skos:prefLabel xml:lang="en">Meteorlogical Drought</skos:prefLabel>
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_72b2baa2">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_0464e5ec">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:15:50Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_72b2baa2">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:15:50Z</dct:created>
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:15:50Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_62b48571">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
+	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_33f78366"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_3b9148c8">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_62b48571">
+	<skos:prefLabel xml:lang="en">Socio-Economic Drought</skos:prefLabel>
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_3b9148c8">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_62b48571">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:16:14Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_3b9148c8">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:16:14Z</dct:created>
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:16:14Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_e8ff8879">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
+	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_cd160753"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_f64e69de">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_e8ff8879">
+	<skos:prefLabel xml:lang="en">Hurricane</skos:prefLabel>
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_f64e69de">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_e8ff8879">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:16:34Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_f64e69de">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:16:34Z</dct:created>
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:16:34Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_66e26cf8">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
+	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_cd160753"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_1182a05e">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_66e26cf8">
+	<skos:prefLabel xml:lang="en">Major Hurricane</skos:prefLabel>
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_1182a05e">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_66e26cf8">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:17:35Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_1182a05e">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:17:35Z</dct:created>
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:17:35Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_f42a900f">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
+	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_cd160753"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_986ece63">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_f42a900f">
+	<skos:prefLabel xml:lang="en">Tropical Depression</skos:prefLabel>
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_986ece63">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_f42a900f">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:18:02Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_986ece63">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:18:02Z</dct:created>
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:18:02Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_d9807e51">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
+	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_cd160753"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_77b58127">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_d9807e51">
+	<skos:prefLabel xml:lang="en">Tropical Storm</skos:prefLabel>
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_77b58127">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_d9807e51">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:18:21Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_77b58127">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:18:21Z</dct:created>
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:18:21Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_3df65100">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
+	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_cd160753"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_5166e809">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_3df65100">
+	<skos:prefLabel xml:lang="en">Tropical Wave</skos:prefLabel>
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_5166e809">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_3df65100">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:20:11Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_5166e809">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:20:11Z</dct:created>
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:20:11Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_21c2165d">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
+	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_e8ff8879"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_43a9bcfc">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_21c2165d">
+	<skos:prefLabel xml:lang="en">Category 1</skos:prefLabel>
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_43a9bcfc">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_21c2165d">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:20:38Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_43a9bcfc">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:20:38Z</dct:created>
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:20:38Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_a7d87885">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
+	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_e8ff8879"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_e7408ee7">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_a7d87885">
+	<skos:prefLabel xml:lang="en">Category 2</skos:prefLabel>
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_e7408ee7">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_a7d87885">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:20:57Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_e7408ee7">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:20:57Z</dct:created>
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:20:57Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_dabcd947">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
+	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_66e26cf8"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_d3e17e32">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_dabcd947">
+	<skos:prefLabel xml:lang="en">Category 3</skos:prefLabel>
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_d3e17e32">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_dabcd947">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:21:12Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_d3e17e32">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:21:12Z</dct:created>
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:21:12Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_d4be3eb6">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
+	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_66e26cf8"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_5410c19a">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_d4be3eb6">
+	<skos:prefLabel xml:lang="en">Category 4</skos:prefLabel>
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_5410c19a">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_d4be3eb6">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:21:23Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_5410c19a">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:21:23Z</dct:created>
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:21:23Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_1c129eb9">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
+	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_66e26cf8"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_2f583b3f">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_1c129eb9">
+	<skos:prefLabel xml:lang="en">Category 5</skos:prefLabel>
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_2f583b3f">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_1c129eb9">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:21:37Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_2f583b3f">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:21:37Z</dct:created>
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:21:37Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_25366383">
+	<skos:definition rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#def_8166b630"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#def_8166b630">
+	<rdf:value xml:lang="en">(a) The Inter-governmental Panel on Climate Change (IPCC) defines climate change as: “a change in the state of the climate that can be identified (e.g., by using statistical tests) by changes in the mean and/or the variability of its properties, and that persists for an extended period, typically decades or longer. Climate change may be due to natural internal processes or external forcings, or to persistent anthropogenic changes in the composition of the atmosphere or in land use”. 
+(b) The United Nations Framework Convention on Climate Change (UNFCCC) defines climate change as “a change of climate which is attributed directly or indirectly to human activity that alters the composition of the global atmosphere and which is in addition to natural climate variability observed over comparable time periods”. </rdf:value>
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:26:13Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_25366383">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:26:13Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_119ac121">
+	<skos:definition rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#def_ac1b3ead"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#def_ac1b3ead">
+	<rdf:value xml:lang="en">The adjustment in natural or human systems in response to actual or expected climatic stimuli or their effects, which moderates harm or exploits beneficial opportunities. </rdf:value>
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:26:43Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_119ac121">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:26:43Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_38c1ebea">
+	<skos:definition rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#def_0aa41305"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#def_0aa41305">
+	<rdf:value xml:lang="en">A dangerous phenomenon, substance, human activity or condition that may cause loss of life, injury or other health impacts, property damage, loss of livelihoods and services, social and economic disruption, or environmental damage. </rdf:value>
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:27:12Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_38c1ebea">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:27:12Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_1bb24b50">
+	<skos:definition rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#def_2429a732"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#def_2429a732">
+	<rdf:value xml:lang="en">Natural process or phenomenon that may cause loss of life, injury or other health impacts, property damage, loss of livelihoods and services, social and economic disruption, or environmental damage. </rdf:value>
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:27:34Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_1bb24b50">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:27:34Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_9eb70930">
+	<skos:definition rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#def_0f2991ee"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#def_0f2991ee">
+	<rdf:value xml:lang="en">A process in which substances combine chemically with oxygen from the air and typically give out bright light, heat, and smoke; combustion or burning.</rdf:value>
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:27:55Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_9eb70930">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:27:55Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_186c61f5">
+	<skos:definition rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#def_a255ea7c"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#def_a255ea7c">
+	<rdf:value xml:lang="en">Bush fires are generally slower moving, but have a higher heat output. This means they pass in two to five minutes, but they can smoulder for days. Fire in the crown of the tree canopy can move rapidly.</rdf:value>
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:28:13Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_186c61f5">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:28:13Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_b218c3e6">
+	<skos:definition rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#def_0aecf344"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#def_0aecf344">
+	<rdf:value xml:lang="en">Grass fires are fast moving, passing in five to ten seconds and smouldering for minutes. They have a low to medium intensity and primarily damage crops, livestock and farming infrastructure, such as fences. </rdf:value>
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:28:26Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_b218c3e6">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:28:26Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_74ff4cc9">
+	<skos:definition rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#def_a59a0266"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#def_a59a0266">
+	<rdf:value xml:lang="en">Wild - originate in uninhabited areas and which pose the risk to spread to inhabited areas</rdf:value>
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:28:43Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_74ff4cc9">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:28:43Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_dc170366">
+	<skos:definition rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#def_d97b41c1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#def_d97b41c1">
+	<rdf:value xml:lang="en">Geological process or phenomenon that may cause loss of life, injury or other health impacts, property damage, loss of livelihoods and services, social and economic disruption, or environmental damage. </rdf:value>
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:29:13Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_dc170366">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:29:13Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_130ae73e">
+	<skos:definition rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#def_a549652f"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#def_a549652f">
+	<rdf:value xml:lang="en">The shaking of the earth’s crust, caused by underground volcanic forces of breaking and shifting rock beneath the earth’s surface</rdf:value>
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:29:37Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_130ae73e">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:29:37Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_6b49c676">
+	<skos:definition rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#def_b4bc5495"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#def_b4bc5495">
+	<rdf:value xml:lang="en">Flows are landslides that involve the movement of material down a slope in the form of a fluid. When material on a slope becomes saturated with water, making it much heavier, it may develop into a debris flow or mud flow.</rdf:value>
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:29:54Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_6b49c676">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:29:54Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_ba8ce5cc">
+	<skos:definition rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#def_3c86e97a"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#def_3c86e97a">
+	<rdf:value xml:lang="en">A debris flow is a moving mass of loose mud, sand, soil, rock, water and air that travels down a slope under the influence of gravity. To be considered a debris flow the moving material must be loose and capable of "flow", and, at least 50% of the material must be sand-size particles or larger.</rdf:value>
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:30:07Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_ba8ce5cc">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:30:07Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_3eb5f2b4">
+	<skos:definition rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#def_4ebc03ef"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#def_4ebc03ef">
+	<rdf:value xml:lang="en">A slide type landslide is a down-slope movement of material that occurs along a distinctive surface of weakness such as a fault, joint or bedding plane.</rdf:value>
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:30:34Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_3eb5f2b4">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:30:34Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_9e987461">
+	<skos:definition rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#def_56ad0187"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#def_56ad0187">
+	<rdf:value xml:lang="en">If the slip surface is curved the slide said to be rotational. The slip surface of a rotational landslide tends to be deep. Blocks of failed material can rotate as they fail and can at times be seen to tilt backwards towards the slope.</rdf:value>
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:31:13Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_9e987461">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:31:13Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_3d5fb77d">
+	<skos:definition rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#def_04c44e65"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#def_04c44e65">
+	<rdf:value xml:lang="en">If the slip surface is straight then it is termed translational or planar. </rdf:value>
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:31:27Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_3d5fb77d">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:31:27Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_91cc2a0b">
+	<skos:definition rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#def_4f2647ff"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#def_4f2647ff">
+	<rdf:value xml:lang="en">Topple failures involve the forward rotation and movement of a mass of rock, earth or debris out of a slope. This kind of slope failure generally occurs around an axis (or point) at or near the base of the block of rock</rdf:value>
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:31:52Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_91cc2a0b">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:31:52Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_6211dbac">
+	<skos:definition rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#def_99154220"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#def_99154220">
+	<rdf:value xml:lang="en">Process or phenomenon of atmospheric, hydrological or oceanographic nature that may cause loss of life, injury or other health impacts, property damage, loss of livelihoods and services, social and economic disruption, or environmental damage. </rdf:value>
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:32:39Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_3ef1a2e0">
+	
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Revised</hasStatus>
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:32:51Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_6211dbac">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:32:52Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_33f78366">
+	<skos:definition rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#def_15e5c8c5"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#def_15e5c8c5">
+	<rdf:value xml:lang="en">Drought can be defined as a period of acute weather shortage mainly due to inadequate rainfall. When the rainfall becomes relatively scant or infrequent, it can disrupt the normal balance between the precipitation and the evaporation process and drought can begin. It can also be defined as a moisture deficiency that has serious, adverse effects on a community usually by reducing food production or surface water supplies.</rdf:value>
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:33:28Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_33f78366">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:33:28Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_e80ea7e2">
+	<skos:definition rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#def_cf30d6bc"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#def_cf30d6bc">
+	<rdf:value xml:lang="en">Hydrological Drought looks at the inadequacy of water by measuring stream flows and water levels in reservoirs and streams. Hydrological drought occurs out of phase with meteorological and agricultural drought because it takes longer for the deficiencies to show up in lakes and streams.</rdf:value>
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:33:44Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_e80ea7e2">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:33:44Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_62b48571">
+	<skos:definition rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#def_454e8dac"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#def_454e8dac">
+	<rdf:value xml:lang="en">Socio-Economic Drought, a new phenomenon, occurs where the demand for an economic good exceeds the supply because of a weather related shortfall in the water supply. An example of this phenomenon is the availability of rice, a Caribbean staple.</rdf:value>
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:33:57Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_62b48571">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:33:57Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_0464e5ec">
+	<skos:definition rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#def_6acd35cb"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#def_6acd35cb">
+	<rdf:value xml:lang="en">Meteorological Drought is generally defined by the degree of dryness compared to an average amount of rainfall usually measured over a thirty-year period.</rdf:value>
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:34:09Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_0464e5ec">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:34:09Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_2d5b754a">
+	<skos:definition rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#def_5d4e40b7"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#def_5d4e40b7">
+	<rdf:value xml:lang="en">Meteorological Drought is generally defined by the degree of dryness compared to an average amount of rainfall usually measured over a thirty-year period.</rdf:value>
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:34:34Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_2d5b754a">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:34:34Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_cd160753">
+	<skos:definition rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#def_7061de15"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#def_7061de15">
+	<rdf:value xml:lang="en">Tropical Wave, Tropical Depression, Tropical Storm, Hurricane. Characterised by heavy rains and high winds.</rdf:value>
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:35:03Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_cd160753">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:35:03Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_e8ff8879">
+	<skos:definition rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#def_22e5f9a6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#def_22e5f9a6">
+	<rdf:value xml:lang="en">A tropical cyclone with maximum sustained winds of 74 mph (64 knots) or higher. In the western North Pacific, hurricanes are called typhoons; similar storms in the Indian Ocean and South Pacific Ocean are called cyclones.</rdf:value>
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:35:29Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_e8ff8879">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:35:29Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_66e26cf8">
+	<skos:definition rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#def_f86df29f"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#def_f86df29f">
+	<rdf:value xml:lang="en">A tropical cyclone with maximum sustained winds of 111 mph (96 knots) or higher, corresponding to a Category 3, 4 or 5 on the Saffir-Simpson Hurricane Wind Scale.</rdf:value>
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:35:41Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_66e26cf8">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:35:41Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_21c2165d">
+	<skos:definition rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#def_a6bcf180"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#def_a6bcf180">
+	<rdf:value xml:lang="en">74-95 mph
+64-82 kt
+119-153 km/h
+Very dangerous winds will produce some damage: Well-constructed frame homes could have damage to roof, shingles, vinyl siding and gutters. Large branches of trees will snap and shallowly rooted trees may be toppled. Extensive damage to power lines and poles likely will result in power outages that could last a few to several days.
+</rdf:value>
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:35:53Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_21c2165d">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:35:53Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_a7d87885">
+	<skos:definition rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#def_4c02659c"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#def_4c02659c">
+	<rdf:value xml:lang="en">96-110 mph
+83-95 kt
+154-177 km/h
+Extremely dangerous winds will cause extensive damage: Well-constructed frame homes could sustain major roof and siding damage. Many shallowly rooted trees will be snapped or uprooted and block numerous roads. Near-total power loss is expected with outages that could last from several days to weeks.</rdf:value>
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:36:05Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_a7d87885">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:36:05Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_dabcd947">
+	<skos:definition rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#def_cd853103"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#def_cd853103">
+	<rdf:value xml:lang="en">111-129 mph
+96-112 kt
+178-208 km/h
+Devastating damage will occur: Well-built framed homes may incur major damage or removal of roof decking and gable ends. Many trees will be snapped or uprooted, blocking numerous roads. Electricity and water will be unavailable for several days to weeks after the storm passes.
+</rdf:value>
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:36:20Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_dabcd947">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:36:20Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_1c129eb9">
+	<skos:definition rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#def_6c55a4ac"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#def_6c55a4ac">
+	<rdf:value xml:lang="en">157 mph or higher
+137 kt or higher
+252 km/h or higher
+Catastrophic damage will occur: A high percentage of framed homes will be destroyed, with total roof failure and wall collapse. Fallen trees and power poles will isolate residential areas. Power outages will last for weeks to possibly months. Most of the area will be uninhabitable for weeks or months
+</rdf:value>
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:36:39Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_1c129eb9">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:36:39Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_d4be3eb6">
+	<skos:definition rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#def_fcf11255"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#def_fcf11255">
+	<rdf:value xml:lang="en">130-156 mph
+113-136 kt
+209-251 km/h
+Catastrophic damage will occur: Well-built framed homes can sustain severe damage with loss of most of the roof structure and/or some exterior walls. Most trees will be snapped or uprooted and power poles downed. Fallen trees and power poles will isolate residential areas. Power outages will last weeks to possibly months. Most of the area will be uninhabitable for weeks or months.</rdf:value>
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:36:58Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_d4be3eb6">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:36:58Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_f42a900f">
+	<skos:definition rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#def_44b8c6ae"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#def_44b8c6ae">
+	<rdf:value xml:lang="en">A tropical depression is designated when the first appearance of a lowered pressure and organized circulation in the centre of the thunderstorm complex occurs. A tropical cyclone with maximum sustained winds of 38 mph (33 knots) or less. Assigned a season number</rdf:value>
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:37:22Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_f42a900f">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:37:22Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_d9807e51">
+	<skos:definition rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#def_9513a683"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#def_9513a683">
+	<rdf:value xml:lang="en">Once a tropical depression has intensified to the point where its maximum sustained winds are between 35-64 knots (39-73 mph), it becomes a tropical storm. It is at this time that it is assigned a name. During this time, the storm itself becomes more organized and begins to become more circular in shape -- resembling a hurricane. A tropical cyclone with maximum sustained winds of 39 to 73 mph (34 to 63 knots). Assigned a name.</rdf:value>
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:37:35Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_d9807e51">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:37:35Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_3df65100">
+	<skos:definition rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#def_86362ed8"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#def_86362ed8">
+	<rdf:value xml:lang="en">A trough or cyclonic curvature maximum in the trade-wind easterlies. The wave may reach maximum amplitude in the lower middle troposphere. </rdf:value>
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:37:57Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_3df65100">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:37:57Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_3a76cff9">
+	<skos:definition rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#def_7ce273d2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#def_7ce273d2">
+	<rdf:value xml:lang="en">The knowledge and capacities developed by governments, professional response and recovery organizations, communities and individuals to effectively anticipate, respond to, and recover from, the impacts of likely, imminent or current hazard events or conditions. </rdf:value>
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:38:19Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_3a76cff9">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:38:19Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_e8d4f55f">
+	<skos:definition rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#def_8e8e0bcb"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#def_8e8e0bcb">
+	<rdf:value xml:lang="en">The provision of emergency services and public assistance during or immediately after a disaster in order to save lives, reduce health impacts, ensure public safety and meet the basic subsistence needs of the people affected. </rdf:value>
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:38:40Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_e8d4f55f">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:38:40Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_d5a16790">
+	<skos:definition rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#def_e8a0d0ab"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#def_e8a0d0ab">
+	<rdf:value xml:lang="en">Organized, phased, and supervised dispersal of people from dangerous or potentially dangerous areas.</rdf:value>
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:39:13Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_d5a16790">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:39:13Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_80ea3d95">
+	<skos:definition rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#def_6328adbd"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#def_6328adbd">
+	<rdf:value xml:lang="en">The characteristics and circumstances of a community, system or asset that make it susceptible to the damaging effects of a hazard. </rdf:value>
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:40:45Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_80ea3d95">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T01:40:46Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_273c12a1">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
+	<skos:topConceptOf rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_ea21e2ed">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_273c12a1">
+	<skos:prefLabel xml:lang="en">Disaster Management</skos:prefLabel>
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_ea21e2ed">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_273c12a1">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T02:09:53Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_ea21e2ed">
+	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T02:09:53Z</dct:created>
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T02:09:53Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_273c12a1">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-28T02:09:53Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_25366383">
+	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_273c12a1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_38c1ebea">
+	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_273c12a1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_3a76cff9">
+	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_273c12a1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_e8d4f55f">
+	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_273c12a1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_80ea3d95">
+	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_273c12a1"/>
+</rdf:Description>
+
+</rdf:RDF>
