@@ -221,6 +221,8 @@ def translate_vocbench_to_fuseki():
     data ={}
     while literal_form in file_data:
         start_index = file_data.find(literal_form, start_index)
+        if start_index == -1:
+            break
         deletion_start = start_index
         start_index = file_data.find(">",start_index)+1
         end_index = file_data.find("<",start_index)
