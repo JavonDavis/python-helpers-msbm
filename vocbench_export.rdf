@@ -97,10 +97,7 @@
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac11">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
-<<<<<<< HEAD
-=======
 	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk/c_e34f6879"/>
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 </rdf:Description>
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b7d2aa0811">
@@ -295,11 +292,7 @@
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac16">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
-<<<<<<< HEAD
-	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac17"/>
-=======
 	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk/c_e34f6879"/>
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 </rdf:Description>
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b7d2aa0816">
@@ -1197,14 +1190,7 @@
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac129">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
-<<<<<<< HEAD
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac1102">
-	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac1101"/>
-=======
 	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk/c_e34f6879"/>
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 </rdf:Description>
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b7d2aa08129">
@@ -1282,14 +1268,7 @@
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac131">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
-<<<<<<< HEAD
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac184">
-	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac180"/>
-=======
 	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk/c_e34f6879"/>
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 </rdf:Description>
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b7d2aa08131">
@@ -1328,11 +1307,7 @@
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac132">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
-<<<<<<< HEAD
-	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac138"/>
-=======
 	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk/c_e34f6879"/>
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 </rdf:Description>
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b7d2aa08132">
@@ -1566,14 +1541,7 @@
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac138">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
-<<<<<<< HEAD
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac163">
-	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac129"/>
-=======
 	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk/c_e34f6879"/>
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 </rdf:Description>
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b7d2aa08138">
@@ -1612,11 +1580,7 @@
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac139">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
-<<<<<<< HEAD
-	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac17"/>
-=======
 	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk/c_e34f6879"/>
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 </rdf:Description>
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b7d2aa08139">
@@ -1889,11 +1853,7 @@
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac146">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
-<<<<<<< HEAD
-	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac17"/>
-=======
 	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk/c_e34f6879"/>
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 </rdf:Description>
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b7d2aa08146">
@@ -2244,11 +2204,7 @@
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac155">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
-<<<<<<< HEAD
-	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac17"/>
-=======
 	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk/c_e34f6879"/>
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 </rdf:Description>
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b7d2aa08155">
@@ -2365,10 +2321,7 @@
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac158">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
-<<<<<<< HEAD
-=======
 	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk/c_e34f6879"/>
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 </rdf:Description>
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b7d2aa08158">
@@ -2407,10 +2360,7 @@
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac159">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
-<<<<<<< HEAD
-=======
 	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk/c_e34f6879"/>
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 </rdf:Description>
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b7d2aa08159">
@@ -2488,10 +2438,7 @@
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac161">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
-<<<<<<< HEAD
-=======
 	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk/c_e34f6879"/>
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 </rdf:Description>
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b7d2aa08161">
@@ -2530,10 +2477,7 @@
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac162">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
-<<<<<<< HEAD
-=======
 	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk/c_e34f6879"/>
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 </rdf:Description>
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b7d2aa08162">
@@ -2767,11 +2711,7 @@
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac168">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
-<<<<<<< HEAD
-	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac138"/>
-=======
 	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk/c_e34f6879"/>
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 </rdf:Description>
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b7d2aa08168">
@@ -2810,11 +2750,7 @@
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac169">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
-<<<<<<< HEAD
-	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac168"/>
-=======
 	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk/c_e34f6879"/>
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 </rdf:Description>
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b7d2aa08169">
@@ -2853,11 +2789,7 @@
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac170">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
-<<<<<<< HEAD
-	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac168"/>
-=======
 	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk/c_e34f6879"/>
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 </rdf:Description>
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b7d2aa08170">
@@ -2896,11 +2828,7 @@
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac171">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
-<<<<<<< HEAD
-	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac168"/>
-=======
 	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk/c_e34f6879"/>
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 </rdf:Description>
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b7d2aa08171">
@@ -3056,14 +2984,7 @@
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac175">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
-<<<<<<< HEAD
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac131">
-	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac17"/>
-=======
 	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk/c_e34f6879"/>
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 </rdf:Description>
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b7d2aa08175">
@@ -3102,10 +3023,7 @@
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac176">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
-<<<<<<< HEAD
-=======
 	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk/c_e34f6879"/>
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 </rdf:Description>
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b7d2aa08176">
@@ -3144,10 +3062,7 @@
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac177">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
-<<<<<<< HEAD
-=======
 	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk/c_e34f6879"/>
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 </rdf:Description>
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b7d2aa08177">
@@ -3186,10 +3101,7 @@
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac178">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
-<<<<<<< HEAD
-=======
 	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk/c_e34f6879"/>
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 </rdf:Description>
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b7d2aa08178">
@@ -3228,14 +3140,7 @@
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac179">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
-<<<<<<< HEAD
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac1101">
-	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac195"/>
-=======
 	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk/c_e34f6879"/>
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 </rdf:Description>
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b7d2aa08179">
@@ -3274,11 +3179,7 @@
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac180">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
-<<<<<<< HEAD
-	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac175"/>
-=======
 	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk/c_e34f6879"/>
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 </rdf:Description>
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b7d2aa08180">
@@ -3317,11 +3218,7 @@
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac181">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
-<<<<<<< HEAD
-	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac179"/>
-=======
 	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk/c_e34f6879"/>
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 </rdf:Description>
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b7d2aa08181">
@@ -3363,11 +3260,7 @@ Very dangerous winds will produce some damage: Well-constructed frame homes coul
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac182">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
-<<<<<<< HEAD
-	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac179"/>
-=======
 	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk/c_e34f6879"/>
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 </rdf:Description>
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b7d2aa08182">
@@ -3409,11 +3302,7 @@ Extremely dangerous winds will cause extensive damage: Well-constructed frame ho
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac183">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
-<<<<<<< HEAD
-	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac180"/>
-=======
 	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk/c_e34f6879"/>
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 </rdf:Description>
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b7d2aa08183">
@@ -3455,14 +3344,7 @@ Devastating damage will occur: Well-built framed homes may incur major damage or
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac184">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
-<<<<<<< HEAD
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac175">
-	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac132"/>
-=======
 	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk/c_e34f6879"/>
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 </rdf:Description>
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b7d2aa08184">
@@ -3504,11 +3386,7 @@ Catastrophic damage will occur: Well-built framed homes can sustain severe damag
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac185">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
-<<<<<<< HEAD
-	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac180"/>
-=======
 	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk/c_e34f6879"/>
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 </rdf:Description>
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b7d2aa08185">
@@ -3901,11 +3779,7 @@ Catastrophic damage will occur: A high percentage of framed homes will be destro
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac195">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
-<<<<<<< HEAD
-	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac129"/>
-=======
 	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk/c_e34f6879"/>
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 </rdf:Description>
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b7d2aa08195">
@@ -3946,14 +3820,7 @@ Catastrophic damage will occur: A high percentage of framed homes will be destro
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac196">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
-<<<<<<< HEAD
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac129">
-	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac138"/>
-=======
 	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk/c_e34f6879"/>
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 </rdf:Description>
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b7d2aa08196">
@@ -3992,11 +3859,7 @@ Catastrophic damage will occur: A high percentage of framed homes will be destro
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac197">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
-<<<<<<< HEAD
-	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac196"/>
-=======
 	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk/c_e34f6879"/>
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 </rdf:Description>
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b7d2aa08197">
@@ -4045,16 +3908,6 @@ Catastrophic damage will occur: A high percentage of framed homes will be destro
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac198">
 	<skosxl:prefLabel rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b7d2aa08198"/>
-<<<<<<< HEAD
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac196">
-	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac195"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac198">
-	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed deprecated</hasStatus>
-=======
 	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
 </rdf:Description>
 
@@ -4063,25 +3916,16 @@ Catastrophic damage will occur: A high percentage of framed homes will be destro
 </rdf:Description>
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac198">
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-03-31T04:32:05Z</dct:created>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b7d2aa08198">
 	<dct:created rdf:datatype="xsd:http://www.w3.org/2001/XMLSchema#dateTime">2016-03-31T04:32:05Z</dct:created>
-<<<<<<< HEAD
-	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-03T13:53:11Z</dct:modified>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac198">
-	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-03T13:53:12Z</dct:modified>
-=======
 	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-03-31T04:32:05Z</dct:modified>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac198">
 	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-03-31T04:32:05Z</dct:modified>
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 	<skos:definition rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#def_63e3c55098"/>
 </rdf:Description>
 
@@ -4132,10 +3976,7 @@ Catastrophic damage will occur: A high percentage of framed homes will be destro
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac1100">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
-<<<<<<< HEAD
-=======
 	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk/c_e34f6879"/>
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 </rdf:Description>
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b7d2aa081100">
@@ -4174,14 +4015,7 @@ Catastrophic damage will occur: A high percentage of framed homes will be destro
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac1101">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
-<<<<<<< HEAD
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac1103">
-	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac1101"/>
-=======
 	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk/c_e34f6879"/>
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 </rdf:Description>
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b7d2aa081101">
@@ -4220,14 +4054,7 @@ Catastrophic damage will occur: A high percentage of framed homes will be destro
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac1102">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
-<<<<<<< HEAD
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac198">
-	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac196"/>
-=======
 	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk/c_e34f6879"/>
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 </rdf:Description>
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b7d2aa081102">
@@ -4266,10 +4093,7 @@ Catastrophic damage will occur: A high percentage of framed homes will be destro
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac1103">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
-<<<<<<< HEAD
-=======
 	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk/c_e34f6879"/>
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 </rdf:Description>
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b7d2aa081103">
@@ -4425,10 +4249,7 @@ Catastrophic damage will occur: A high percentage of framed homes will be destro
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac1107">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
-<<<<<<< HEAD
-=======
 	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk/c_e34f6879"/>
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 </rdf:Description>
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b7d2aa081107">
@@ -4477,10 +4298,7 @@ Catastrophic damage will occur: A high percentage of framed homes will be destro
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac1108">
 	<skosxl:prefLabel rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b7d2aa081108"/>
-<<<<<<< HEAD
-=======
 	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed</hasStatus>
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 </rdf:Description>
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b7d2aa081108">
@@ -4497,10 +4315,7 @@ Catastrophic damage will occur: A high percentage of framed homes will be destro
 </rdf:Description>
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac1108">
-<<<<<<< HEAD
-=======
 	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-03-31T04:32:05Z</dct:modified>
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 	<skos:definition rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#def_63e3c550108"/>
 </rdf:Description>
 
@@ -5175,10 +4990,7 @@ Catastrophic damage will occur: A high percentage of framed homes will be destro
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac1126">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
-<<<<<<< HEAD
-=======
 	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk/c_e34f6879"/>
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 </rdf:Description>
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b7d2aa081126">
@@ -5334,11 +5146,7 @@ Catastrophic damage will occur: A high percentage of framed homes will be destro
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac1130">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk"/>
-<<<<<<< HEAD
-	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac146"/>
-=======
 	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk/c_e34f6879"/>
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 </rdf:Description>
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b7d2aa081130">
@@ -6505,13 +6313,6 @@ Catastrophic damage will occur: A high percentage of framed homes will be destro
 	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-03-30T22:22:53Z</dct:created>
 </rdf:Description>
 
-<<<<<<< HEAD
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl_en_b7d2aa08198">
-	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed deprecated</hasStatus>
-</rdf:Description>
-
-=======
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac186">
 	<skos:related rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac132"/>
 </rdf:Description>
@@ -6520,241 +6321,6 @@ Catastrophic damage will occur: A high percentage of framed homes will be destro
 	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac175"/>
 </rdf:Description>
 
-<<<<<<< HEAD
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac138">
-	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac131"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac11">
-	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac16"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac1126">
-	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac138"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac1108">
-	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Proposed deprecated</hasStatus>
-	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-08T04:54:16Z</dct:modified>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac176">
-	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac175"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac178">
-	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac175"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac177">
-	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac175"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac1107">
-	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac132"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac1100">
-	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac195"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac162">
-	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac158"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac158">
-	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac132"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac159">
-	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac158"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac161">
-	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac158"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk2">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl-7fdcbc93-8548-4752-9def-2693bce4fa5e">
-	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
-	<skosxl:literalForm xml:lang="en">Disaster Recovery Management vs</skosxl:literalForm>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk2">
-	<skosxl:altLabel rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#xl-7fdcbc93-8548-4752-9def-2693bce4fa5e"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#xl-867282e6-3c52-44d7-b214-a4daf6b96b65">
-	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
-	<skosxl:literalForm xml:lang="en">Disaster Recovery Management v2</skosxl:literalForm>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk2">
-	<skosxl:prefLabel rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#xl-867282e6-3c52-44d7-b214-a4daf6b96b65"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac17">
-	<skos:topConceptOf rdf:resource="http://vocab.cdmk-caribbean.net/cdmk2"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac16">
-	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk2"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac11">
-	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk2"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac131">
-	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk2"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac138">
-	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk2"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac168">
-	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk2"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac171">
-	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk2"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac170">
-	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk2"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac169">
-	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk2"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac129">
-	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk2"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac163">
-	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk2"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac195">
-	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk2"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac196">
-	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk2"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac197">
-	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk2"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac1101">
-	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk2"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac1102">
-	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk2"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac1103">
-	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk2"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac1100">
-	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk2"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac132">
-	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk2"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac1126">
-	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk2"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac139">
-	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk2"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac146">
-	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk2"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac1130">
-	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk2"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac155">
-	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk2"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac158">
-	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk2"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac159">
-	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk2"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac162">
-	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk2"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac161">
-	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk2"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac1107">
-	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk2"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac175">
-	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk2"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac179">
-	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk2"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac181">
-	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk2"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac182">
-	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk2"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac180">
-	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk2"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac183">
-	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk2"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac184">
-	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk2"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac185">
-	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk2"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac177">
-	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk2"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac178">
-	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk2"/>
-</rdf:Description>
-
-<rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac176">
-	<skos:inScheme rdf:resource="http://vocab.cdmk-caribbean.net/cdmk2"/>
-=======
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac16">
 	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac17"/>
 </rdf:Description>
@@ -6897,7 +6463,6 @@ Catastrophic damage will occur: A high percentage of framed homes will be destro
 
 <rdf:Description rdf:about="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac1130">
 	<skos:broader rdf:resource="http://vocab.cdmk-caribbean.net/cdmk#c_893a08ac146"/>
->>>>>>> 4e83c17b294efc59ab256e9ce54afb0b20abb349
 </rdf:Description>
 
 </rdf:RDF>
